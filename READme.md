@@ -35,6 +35,24 @@
 
 ![img](./img/workingDirectory.png)
 
+...
+
+![</br>](html)
+![</br>](html)
+
+### Staging Area
+
+![img](./img/stagingDirectory.png)
+
+...
+
+![</br>](html)
+![</br>](html)
+
+### Repository
+
+![img](./img/repository.png)
+
 ![</br>](html)
 ![</br>](html)
 
