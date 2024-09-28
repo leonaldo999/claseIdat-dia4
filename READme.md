@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=30F714&background=703BE2BE&center=true&vCenter=true&width=435&lines=Dia+4+clase;IDAT+FrontEnd)](https://git.io/typing-svg)
 
-![</br>](html)
-![</br>](html)
+[</br>](html)
+[</br>](html)
 
 ## COMANDOS Y CONFIGURACION GIT
 
@@ -19,15 +19,15 @@
 
 6. _git log --oneline_ : Muestra los commit en una liena
 
-![</br>](html)
-![</br>](html)
+[</br>](html)
+[</br>](html)
 
 ### Flujo GIT
 
 ![img](./img/dia04Clase.png)
 
-![</br>](html)
-![</br>](html)
+[</br>](html)
+[</br>](html)
 
 ---
 
@@ -37,8 +37,8 @@
 
 ...
 
-![</br>](html)
-![</br>](html)
+[</br>](html)
+[</br>](html)
 
 ### Staging Area
 
@@ -46,15 +46,15 @@
 
 ...
 
-![</br>](html)
-![</br>](html)
+[</br>](html)
+[</br>](html)
 
 ### Repository
 
 ![img](./img/repository.png)
 
-![</br>](html)
-![</br>](html)
+[</br>](html)
+[</br>](html)
 
 ---
 
@@ -79,7 +79,7 @@
 
 4. _UAT_ (**Pre Producion**) : Antes de mandar a produccion
 
-![</br>](html)
+[</br>](html)
 
  >
  >Integracion (QA es uno mismo) => Hasta el dia Jueves(x) (Metodologia Screm)
@@ -123,7 +123,7 @@
 
 10. _git status_ : Muestra el estado de los cambios en el repositorio.
 
-![</br>](html)
+[</br>](html)
 
 Estos comandos son esenciales para interactuar con repositorios en GitHub y facilitar el flujo de trabajo colaborativo en proyectos de software.
 
